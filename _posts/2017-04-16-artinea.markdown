@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Artinea"
+img: img/portfolio/artinea.png
+modalID: artinea
+category: Wordpress, Php
+projecturl: http://artinea.net
+---
+
+Sale and export of art works

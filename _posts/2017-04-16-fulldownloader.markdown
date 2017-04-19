@@ -8,4 +8,4 @@ projecturl: https://github.com/dannielarriola/fulldownloader
 ---
 
 
-Chrome Plugin: Allows you to inject code at the end of any page
+Chrome Plugin: Tool to download files from web pages (videos, images, subtitles)

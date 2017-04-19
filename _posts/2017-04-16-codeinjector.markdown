@@ -8,4 +8,4 @@ projecturl: https://github.com/daletsin/codeinjector
 ---
 
 
-Chrome Plugin: Allows you to inject code at the end of any page
+Chrome Plugin: Allows to inject code at the end of any page

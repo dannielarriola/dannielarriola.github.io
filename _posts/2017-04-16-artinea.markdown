@@ -7,4 +7,4 @@ category: Wordpress, Php
 projecturl: http://artinea.net
 ---
 
-Sale and export of art works
+Sale and export art works

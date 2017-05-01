@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Daniel Arriola</title>
+    <link>https://dannielarriola.github.io/home/tags/python/</link>
+    <description>Recent content in Python on Daniel Arriola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Mon, 01 May 2017 00:35:03 -0300</lastBuildDate>
+    
+	<atom:link href="https://dannielarriola.github.io/home/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sublime moodle Completion</title>
+      <link>https://dannielarriola.github.io/home/portfolio/sublimemoodlecompletion/</link>
+      <pubDate>Mon, 01 May 2017 00:35:03 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/sublimemoodlecompletion/</guid>
+      <description>Plugin para el editor Sublime Text: provee autocompletado de funciones Moodle</description>
+    </item>
+    
+  </channel>
+</rss>

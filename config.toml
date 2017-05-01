@@ -1,8 +1,8 @@
-baseURL = "https://dannielarriola.github.io/docs"
+baseURL = "https://dannielarriola.github.io/home"
 languageCode = "es-ar"
 title = "Daniel Arriola"
 theme = "hugomaterialize"
-publishDir = "./docs"
+publishDir = "./home"
 [params]
 description = "Web Developer"
 githuburl = "https://github.com/dannielarriola"

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Daniel Arriola</title>
+    <link>https://dannielarriola.github.io/home/tags/javascript/</link>
+    <description>Recent content in Javascript on Daniel Arriola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Mon, 01 May 2017 00:40:27 -0300</lastBuildDate>
+    
+	<atom:link href="https://dannielarriola.github.io/home/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brackets Api Hints</title>
+      <link>https://dannielarriola.github.io/home/portfolio/bracketsapihints/</link>
+      <pubDate>Mon, 01 May 2017 00:40:27 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/bracketsapihints/</guid>
+      <description>Extension para el editor adobe Brackets, permite el autocompletado de funciones Moodle</description>
+    </item>
+    
+    <item>
+      <title>ytstojson</title>
+      <link>https://dannielarriola.github.io/home/portfolio/ytstojson/</link>
+      <pubDate>Mon, 01 May 2017 00:28:26 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/ytstojson/</guid>
+      <description>Herramienta CLI que obtiene datos de la página yts.ag y las coloca en un archivo json</description>
+    </item>
+    
+    <item>
+      <title>tufilmotk</title>
+      <link>https://dannielarriola.github.io/home/portfolio/tufilmotk/</link>
+      <pubDate>Mon, 01 May 2017 00:23:15 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/tufilmotk/</guid>
+      <description>Aplicación web con un archivo json como base de datos</description>
+    </item>
+    
+    <item>
+      <title>log charting</title>
+      <link>https://dannielarriola.github.io/home/portfolio/logcharting/</link>
+      <pubDate>Sun, 30 Apr 2017 22:26:19 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/logcharting/</guid>
+      <description>Simple herramienta para parsear y graficar archivos de logs</description>
+    </item>
+    
+    <item>
+      <title>Codeinjector</title>
+      <link>https://dannielarriola.github.io/home/portfolio/codeinjector/</link>
+      <pubDate>Wed, 26 Apr 2017 22:04:57 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/codeinjector/</guid>
+      <description>Plugin para chrome: inserta codigo al final de cualquier pagina</description>
+    </item>
+    
+    <item>
+      <title>Full downloader</title>
+      <link>https://dannielarriola.github.io/home/portfolio/fulldownloader/</link>
+      <pubDate>Sun, 23 Apr 2017 16:34:45 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/fulldownloader/</guid>
+      <description>Plugin para chrome: Descarga contenido multimedia de cualquier página</description>
+    </item>
+    
+  </channel>
+</rss>

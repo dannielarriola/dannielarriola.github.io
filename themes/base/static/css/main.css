@@ -1,0 +1,54 @@
+a.nav-link.active, a.nav-link:hover{
+    border-bottom: 4px solid white;
+}
+
+.font-weight-black{
+    font-weight: 900;
+}
+
+.text-black{
+    color:black !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.nav-link {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700; }
+
+hr.code,
+hr.star-primary {
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 25px auto 30px; }
+
+hr.code:after,
+hr.star-primary:after {
+  content: "\f121";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  top: -0.8em;
+  font-size: 2em;
+  padding: 0 0.25em; 
+}
+
+hr.code:after {
+  background-color: white;
+}
+
+.description{
+    font-size: 1.75em;
+}
+
+.bg-blue{
+  background: #2c3e50 !important;
+}

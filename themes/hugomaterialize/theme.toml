@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "hugomaterialize"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+description = "Material portfolio theme"
+homepage = "http://danielarriola.com/"
+tags = []
+features = []
+min_version = "0.20"
+
+[author]
+  name = "Daniel Arriola"
+  homepage = "http://danielarriola.com"

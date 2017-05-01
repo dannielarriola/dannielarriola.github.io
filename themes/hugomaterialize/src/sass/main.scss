@@ -1,0 +1,79 @@
+@import "materialize";
+@import "helpers/helpers";
+
+//variables
+$linkedin-color: #0077B5;
+$twitter-color: #1DA1F2;
+$github-color: #24292E;
+$mail-color: #D54B3D;
+$linkedin-color-hover: darken($linkedin-color, 15%);
+$twitter-color-hover: darken($twitter-color, 15%);
+$github-color-hover: darken($github-color, 15%);
+$mail-color-hover: darken($mail-color, 15%);
+
+
+//css
+
+html {
+    font-family: 'Montserrat', sans-serif;
+    background: url("../img/bg-pattern.png");
+}
+
+hr{
+  &.code,
+  &.star-primary {
+    padding: 0;
+    border: none;
+    border-top: solid 5px;
+    text-align: center;
+    max-width: 250px;
+    margin: 25px auto 30px; }
+
+  &.code:after,
+  &.star-primary:after {
+    content: "code";
+    font-family: 'Material Icons';
+    display: inline-block;
+    position: relative;
+    top: -0.8em;
+    font-size: 2em;
+    padding: 0 0.25em; 
+  }
+
+  &.code:after {
+    background-color: white;
+  }
+}
+
+
+a{
+  &.linkedin{
+    color: $linkedin-color;
+    &:hover{
+      color: $linkedin-color-hover;
+    }
+
+  }
+  &.twitter{
+    color: $twitter-color;
+    &:hover{
+      color: $twitter-color-hover;
+    }
+  }
+  &.github{
+    color: $github-color;
+    &:hover{
+      color: $github-color-hover;
+    }
+  }
+  &.mail{
+    color: $mail-color;
+    &:hover{
+      color: $mail-color-hover;
+    }
+  }
+}
+
+a.active{
+  background: rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,36 @@
+<section id="contact" class="center-align padding-bottom-3 scrollspy">
+    <h1 class="text-uppercase font-weight-bold">Contactame</h1>
+    <hr class="code">
+    {{ if .Site.Params.linkedinurl }}
+    <a href="{{.Site.Params.linkedinurl}}" target="_blank" class="linkedin tooltipped" data-position="bottom" data-delay="50" data-tooltip="Linkedin">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+    {{ end }}
+    {{ if .Site.Params.githuburl }}
+    <a href="{{.Site.Params.githuburl}}" target="_blank" class="github tooltipped" data-position="bottom" data-delay="50" data-tooltip="Github">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+    {{ end }}
+    {{ if .Site.Params.twitterurl }}
+    <a href="{{.Site.Params.twitterurl}}" target="_blank" class="twitter tooltipped" data-position="bottom" data-delay="50" data-tooltip="Twitter">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+    {{ end }}
+    {{ if .Site.Params.mail }}
+    <a href="mailto:{{.Site.Params.mail}}" target="_blank" class="mail tooltipped" data-position="bottom" data-delay="50" data-tooltip="Mail">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+    {{ end }}
+</section>

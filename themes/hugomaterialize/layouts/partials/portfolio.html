@@ -1,0 +1,23 @@
+<section id="portfolio" class="center-align padding-top-2 padding-bottom-3 scrollspy">
+    <h1 class="text-uppercase font-weight-bold">Portfolio</h1>
+    <hr class="code">
+    <div class="row">
+        {{ range where .Data.Pages "Type" "portfolio" }}
+        <div class="card col s12 m6 l4 hoverable">
+            <div class="card-image waves-effect waves-block waves-light">
+                <img src="/{{.Params.image}}" class="responsive activator">
+            </div>
+            <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4 text-uppercase">{{.Title}}<i class="material-icons right">close</i></span>
+                <p>{{.Content}}</p>
+                {{ range .Params.tags}}
+                    <div class="chip">
+                        {{.}}
+                    </div>
+                {{ end }}
+                 <a href="{{.Params.projecturl}}" class="waves-effect waves-teal btn-flat" target="_blank">ver proyecto</a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>

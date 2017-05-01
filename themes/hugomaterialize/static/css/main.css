@@ -6860,3 +6860,6 @@ a.mail {
 
 a.active {
   background: rgba(0, 0, 0, 0.1); }
+
+#sidenav-overlay {
+  z-index: 996; }

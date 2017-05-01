@@ -1,4 +1,4 @@
-baseURL = "https://dannielarriola.github.io/"
+baseURL = "https://dannielarriola.github.io/docs"
 languageCode = "es-ar"
 title = "Daniel Arriola"
 theme = "hugomaterialize"

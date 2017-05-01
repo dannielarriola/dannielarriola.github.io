@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lamp on Daniel Arriola</title>
-    <link>https://dannielarriola.github.io/tags/lamp/</link>
+    <link>https://dannielarriola.github.io/docs/tags/lamp/</link>
     <description>Recent content in Lamp on Daniel Arriola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Mon, 01 May 2017 00:12:38 -0300</lastBuildDate>
     
-	<atom:link href="https://dannielarriola.github.io/tags/lamp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dannielarriola.github.io/docs/tags/lamp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>lamp docker</title>
-      <link>https://dannielarriola.github.io/portfolio/lamp-docker/</link>
+      <link>https://dannielarriola.github.io/docs/portfolio/lamp-docker/</link>
       <pubDate>Mon, 01 May 2017 00:12:38 -0300</pubDate>
       
-      <guid>https://dannielarriola.github.io/portfolio/lamp-docker/</guid>
+      <guid>https://dannielarriola.github.io/docs/portfolio/lamp-docker/</guid>
       <description>Entorno lamp con Docker Compose</description>
     </item>
     

@@ -5,7 +5,7 @@
         {{ range where .Data.Pages "Type" "portfolio" }}
         <div class="card col s12 m6 l4 hoverable">
             <div class="card-image waves-effect waves-block waves-light">
-                <img src="/{{.Params.image}}" class="responsive activator">
+                <img src="{{.Site.BaseURL}}/{{.Params.image}}" class="responsive activator">
             </div>
             <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4 text-uppercase">{{.Title}}<i class="material-icons right">close</i></span>

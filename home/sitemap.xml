@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dannielarriola.github.io/home/portfolio/extlibraries/</loc>
+    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dannielarriola.github.io/home/portfolio/bracketsapihints/</loc>
     <lastmod>2017-05-01T00:40:27-03:00</lastmod>
   </url>
@@ -83,7 +88,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/home/</loc>
-    <lastmod>2017-05-01T00:40:27-03:00</lastmod>
+    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,7 +100,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/home/tags/javascript/</loc>
-    <lastmod>2017-05-01T00:40:27-03:00</lastmod>
+    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -118,6 +123,12 @@
   </url>
   
   <url>
+    <loc>https://dannielarriola.github.io/home/tags/nodejs/</loc>
+    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dannielarriola.github.io/home/tags/npm/</loc>
     <lastmod>2017-05-01T00:28:26-03:00</lastmod>
     <priority>0</priority>
@@ -125,7 +136,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/home/portfolio/</loc>
-    <lastmod>2017-05-01T00:40:27-03:00</lastmod>
+    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,6 +161,12 @@
   <url>
     <loc>https://dannielarriola.github.io/home/tags/</loc>
     <lastmod>2017-05-01T00:23:15-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dannielarriola.github.io/home/tags/vs-code/</loc>
+    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   

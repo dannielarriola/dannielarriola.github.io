@@ -6,10 +6,19 @@
     <description>Recent content in Javascript on Daniel Arriola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 01 May 2017 00:40:27 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 19:08:00 -0300</lastBuildDate>
     
 	<atom:link href="https://dannielarriola.github.io/home/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>External Libraries</title>
+      <link>https://dannielarriola.github.io/home/portfolio/extlibraries/</link>
+      <pubDate>Sun, 14 May 2017 19:08:00 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/extlibraries/</guid>
+      <description>Extension para Visual Studio Code: Agrega un directorio externo al proyecto como symlink</description>
+    </item>
     
     <item>
       <title>Brackets Api Hints</title>

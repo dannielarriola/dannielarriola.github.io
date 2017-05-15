@@ -7,6 +7,11 @@
             <div class="card-image waves-effect waves-block waves-light">
                 <img src="{{.Site.BaseURL}}/{{.Params.image}}" class="responsive activator">
             </div>
+            <div class="card-content">
+                <div class="text-uppercase">
+                    {{.Title}}
+                </div>
+            </div>
             <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4 text-uppercase">{{.Title}}<i class="material-icons right">close</i></span>
                 <p>{{.Content}}</p>
@@ -15,7 +20,7 @@
                         {{.}}
                     </div>
                 {{ end }}
-                 <a href="{{.Params.projecturl}}" class="waves-effect waves-teal btn-flat" target="_blank">ver proyecto</a>
+                 <a href="{{.Params.projecturl}}" class="waves-effect waves-teal btn-flat text-blue" target="_blank">ver proyecto</a>
             </div>
         </div>
         {{ end }}

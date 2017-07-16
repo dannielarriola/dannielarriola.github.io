@@ -6918,6 +6918,11 @@ a.mail {
   a.mail:hover {
     color: #a22f23; }
 
+a.cvurl {
+  color: teal; }
+  a.cvurl:hover {
+    color: #003434; }
+
 a.active {
   background: rgba(0, 0, 0, 0.1); }
 

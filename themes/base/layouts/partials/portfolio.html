@@ -1,9 +1,0 @@
-<section id="about" class="text-center pb-5">
-    <h1 class="text-uppercase font-weight-bold">Portfolio</h1>
-    <hr class="code">
-    <ul>
-    {{ range where .Data.Pages "Type" "portfolio" }}
-       <img src="/{{.Params.image}}">
-    {{ end }}
-    </ul>
-</section>

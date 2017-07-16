@@ -33,4 +33,12 @@
         </span>
     </a>
     {{ end }}
+    {{ if .Site.Params.cvurl }}
+    <a href="{{.Site.Params.cvurl}}" target="_blank" class="cvurl tooltipped" data-position="bottom" data-delay="50" data-tooltip="CV">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-id-card-o fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+    {{ end }}
 </section>

@@ -6,10 +6,12 @@ $linkedin-color: #0077B5;
 $twitter-color: #1DA1F2;
 $github-color: #24292E;
 $mail-color: #D54B3D;
+$cv-color: teal;
 $linkedin-color-hover: darken($linkedin-color, 15%);
 $twitter-color-hover: darken($twitter-color, 15%);
 $github-color-hover: darken($github-color, 15%);
 $mail-color-hover: darken($mail-color, 15%);
+$cv-color-hover: darken($cv-color, 15%);
 
 
 //css
@@ -70,6 +72,12 @@ a{
     color: $mail-color;
     &:hover{
       color: $mail-color-hover;
+    }
+  }
+  &.cvurl{
+    color: $cv-color;
+    &:hover{
+      color: $cv-color-hover;
     }
   }
 }

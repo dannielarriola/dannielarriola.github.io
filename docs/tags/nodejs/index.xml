@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nodejs on Daniel Arriola</title>
+    <link>https://dannielarriola.github.io/home/tags/nodejs/</link>
+    <description>Recent content in Nodejs on Daniel Arriola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Sun, 14 May 2017 19:08:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://dannielarriola.github.io/home/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Libraries</title>
+      <link>https://dannielarriola.github.io/home/portfolio/extlibraries/</link>
+      <pubDate>Sun, 14 May 2017 19:08:00 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/home/portfolio/extlibraries/</guid>
+      <description>Extension para Visual Studio Code: Agrega un directorio externo al proyecto como symlink</description>
+    </item>
+    
+  </channel>
+</rss>

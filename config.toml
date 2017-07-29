@@ -2,7 +2,7 @@ baseURL = "https://dannielarriola.github.io/home"
 languageCode = "es-ar"
 title = "Daniel Arriola"
 theme = "hugomaterialize"
-publishDir = "./docs"
+publishDir = "./"
 googleAnalytics = "UA-90993783-4"
 [params]
 description = "Web Developer"

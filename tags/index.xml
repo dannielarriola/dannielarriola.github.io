@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Daniel Arriola</title>
+    <link>https://dannielarriola.github.io/tags/</link>
+    <description>Recent content in Tags on Daniel Arriola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Mon, 01 May 2017 00:23:15 -0300</lastBuildDate>
+    
+	<atom:link href="https://dannielarriola.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angular 2</title>
+      <link>https://dannielarriola.github.io/tags/angular-2/</link>
+      <pubDate>Mon, 01 May 2017 00:23:15 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/angular-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brackets</title>
+      <link>https://dannielarriola.github.io/tags/brackets/</link>
+      <pubDate>Mon, 01 May 2017 00:40:27 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/brackets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chartjs</title>
+      <link>https://dannielarriola.github.io/tags/chartjs/</link>
+      <pubDate>Sun, 30 Apr 2017 22:26:19 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/chartjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chrome</title>
+      <link>https://dannielarriola.github.io/tags/chrome/</link>
+      <pubDate>Wed, 26 Apr 2017 22:04:57 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cli</title>
+      <link>https://dannielarriola.github.io/tags/cli/</link>
+      <pubDate>Mon, 01 May 2017 00:28:26 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://dannielarriola.github.io/tags/docker/</link>
+      <pubDate>Mon, 01 May 2017 00:12:38 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://dannielarriola.github.io/tags/javascript/</link>
+      <pubDate>Sun, 14 May 2017 19:08:00 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lamp</title>
+      <link>https://dannielarriola.github.io/tags/lamp/</link>
+      <pubDate>Mon, 01 May 2017 00:12:38 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material Design</title>
+      <link>https://dannielarriola.github.io/tags/material-design/</link>
+      <pubDate>Mon, 01 May 2017 00:23:15 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/material-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moodle</title>
+      <link>https://dannielarriola.github.io/tags/moodle/</link>
+      <pubDate>Mon, 01 May 2017 00:40:27 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/moodle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodejs</title>
+      <link>https://dannielarriola.github.io/tags/nodejs/</link>
+      <pubDate>Sun, 14 May 2017 19:08:00 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Npm</title>
+      <link>https://dannielarriola.github.io/tags/npm/</link>
+      <pubDate>Mon, 01 May 2017 00:28:26 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/npm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://dannielarriola.github.io/tags/python/</link>
+      <pubDate>Mon, 01 May 2017 00:35:03 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sublime Text</title>
+      <link>https://dannielarriola.github.io/tags/sublime-text/</link>
+      <pubDate>Mon, 01 May 2017 00:35:03 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/sublime-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vs Code</title>
+      <link>https://dannielarriola.github.io/tags/vs-code/</link>
+      <pubDate>Sun, 14 May 2017 19:08:00 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/vs-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webpack</title>
+      <link>https://dannielarriola.github.io/tags/webpack/</link>
+      <pubDate>Mon, 01 May 2017 00:23:15 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/tags/webpack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

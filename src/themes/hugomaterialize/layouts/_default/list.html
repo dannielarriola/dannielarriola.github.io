@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+{{ partial "head.html" . }}
+<body>
+    {{ partial "extnavbar.html" . }}
+    <div class="main-content container">  
+            <ul class="collection with-header">
+                <li class="collection-header"><h4>{{.Section}}</h4></li>
+                {{ range .Data.Pages }}
+                <li class="collection-item">
+                    <div>
+                        <span class="chip"> {{.Date.Format "02-01-2006"}} </span> {{.Title}}
+                        <a href="{{.Permalink}}" class="secondary-content">
+                            <i class="material-icons">send</i>
+                        </a>
+                    </div>
+                </li>
+                {{ end }}
+            </ul>
+        
+    </div>
+    {{ partial "footer.html" . }}
+    {{ partial "javascript.html" . }}
+</body>
+</html>

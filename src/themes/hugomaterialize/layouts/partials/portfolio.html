@@ -16,9 +16,11 @@
                 <span class="card-title grey-text text-darken-4 text-uppercase">{{.Title}}<i class="material-icons right">close</i></span>
                 <p>{{.Content}}</p>
                 {{ range .Params.tags}}
+                <a href="{{$.Site.BaseURL}}/tags/{{. | urlize}}">
                     <div class="chip">
                         {{.}}
                     </div>
+                </a>
                 {{ end }}
                 <div class="viewproject">
                     <a href="{{.Params.projecturl}}" class="waves-effect waves-teal btn-flat text-blue" target="_blank">ver proyecto</a>

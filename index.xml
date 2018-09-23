@@ -6,10 +6,19 @@
     <description>Recent content on Daniel Arriola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sun, 14 May 2017 19:08:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 23 Sep 2018 16:40:00 -0300</lastBuildDate>
     
 	<atom:link href="https://dannielarriola.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simon Game</title>
+      <link>https://dannielarriola.github.io/portfolio/simongame/</link>
+      <pubDate>Sun, 23 Sep 2018 16:40:00 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/portfolio/simongame/</guid>
+      <description>Juego de memoria (Simon) hecho en C#</description>
+    </item>
     
     <item>
       <title>External Libraries</title>
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>Sublime moodle Completion</title>
+      <title>Moodle Completion</title>
       <link>https://dannielarriola.github.io/portfolio/sublimemoodlecompletion/</link>
       <pubDate>Mon, 01 May 2017 00:35:03 -0300</pubDate>
       

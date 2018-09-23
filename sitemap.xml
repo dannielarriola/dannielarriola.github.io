@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dannielarriola.github.io/portfolio/simongame/</loc>
+    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dannielarriola.github.io/portfolio/extlibraries/</loc>
     <lastmod>2017-05-14T19:08:00-03:00</lastmod>
   </url>
@@ -53,6 +58,12 @@
   </url>
   
   <url>
+    <loc>https://dannielarriola.github.io/tags/.net/</loc>
+    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dannielarriola.github.io/tags/angular-2/</loc>
     <lastmod>2017-05-01T00:23:15-03:00</lastmod>
     <priority>0</priority>
@@ -61,6 +72,12 @@
   <url>
     <loc>https://dannielarriola.github.io/tags/brackets/</loc>
     <lastmod>2017-05-01T00:40:27-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dannielarriola.github.io/tags/c/</loc>
+    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,7 +106,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/</loc>
-    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
+    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -137,7 +154,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/portfolio/</loc>
-    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
+    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,7 +178,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/tags/</loc>
-    <lastmod>2017-05-01T00:23:15-03:00</lastmod>
+    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   

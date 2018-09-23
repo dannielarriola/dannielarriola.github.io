@@ -6928,3 +6928,18 @@ a.active {
 
 #sidenav-overlay {
   z-index: 996; }
+
+
+
+  /*******************************custom****************************************/
+
+
+
+.viewproject a {
+  border: 3px solid teal;
+  margin-top: 30px;
+}
+
+.viewproject a:hover {
+  border: none;
+}

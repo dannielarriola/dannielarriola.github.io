@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dannielarriola.github.io/portfolio/imdbdownloader/</loc>
+    <lastmod>2019-03-05T22:29:45-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dannielarriola.github.io/portfolio/simongame/</loc>
     <lastmod>2018-09-23T16:40:00-03:00</lastmod>
   </url>
@@ -94,7 +99,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/tags/chrome/</loc>
-    <lastmod>2017-04-26T22:04:57-03:00</lastmod>
+    <lastmod>2019-03-05T22:29:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,7 +111,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/</loc>
-    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
+    <lastmod>2019-03-05T22:29:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -118,7 +123,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/tags/javascript/</loc>
-    <lastmod>2017-05-14T19:08:00-03:00</lastmod>
+    <lastmod>2019-03-05T22:29:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,7 +159,7 @@
   
   <url>
     <loc>https://dannielarriola.github.io/portfolio/</loc>
-    <lastmod>2018-09-23T16:40:00-03:00</lastmod>
+    <lastmod>2019-03-05T22:29:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -167,6 +172,12 @@
   <url>
     <loc>https://dannielarriola.github.io/tags/python/</loc>
     <lastmod>2017-05-01T00:35:03-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dannielarriola.github.io/tags/react/</loc>
+    <lastmod>2019-03-05T22:29:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   

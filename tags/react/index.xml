@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Daniel Arriola</title>
+    <link>https://dannielarriola.github.io/tags/react/</link>
+    <description>Recent content in React on Daniel Arriola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Tue, 05 Mar 2019 22:29:45 -0300</lastBuildDate>
+    
+	<atom:link href="https://dannielarriola.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IMDb Movie Downloader</title>
+      <link>https://dannielarriola.github.io/portfolio/imdbdownloader/</link>
+      <pubDate>Tue, 05 Mar 2019 22:29:45 -0300</pubDate>
+      
+      <guid>https://dannielarriola.github.io/portfolio/imdbdownloader/</guid>
+      <description>Plugin para chrome: Descarga de torrents de peliculas de imdb.com</description>
+    </item>
+    
+  </channel>
+</rss>
